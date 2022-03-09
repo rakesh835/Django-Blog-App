@@ -38,11 +38,16 @@ ul {
 
 .article-title {
   color: #444444;
+  text-decoration: none;
 }
 
-a.article-title:hover {
-  color: #428bca;
+.mr-2 {
   text-decoration: none;
+}
+
+a.article-title: {
+  color: #428bca;
+  text-decoration: none !important;
 }
 
 .article-content {
