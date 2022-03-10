@@ -3,7 +3,7 @@
 This project is also live at https://rkawesomeblogs.herokuapp.com/
 
 # Features:-
-##### User has to create account and then can write blogs
+##### User can create account and then can write blogs
 ##### user can reset password
 ##### User can delete or update blog
 
