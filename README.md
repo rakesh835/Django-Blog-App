@@ -1,6 +1,5 @@
 # Django-Blog-App
 
-This project is also live at https://rkawesomeblogs.herokuapp.com/
 
 # Features:-
 ##### User can create account and then can write blogs
